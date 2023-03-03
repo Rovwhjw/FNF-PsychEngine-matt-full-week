@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matt left"
+		},
+		{
+			"offsets": [
+				-36,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "matt right"
+		},
+		{
+			"offsets": [
+				-3,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up"
+		},
+		{
+			"offsets": [
+				-17,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mart_fart",
+	"position": [
+		20,
+		410
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		60,
+		200
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

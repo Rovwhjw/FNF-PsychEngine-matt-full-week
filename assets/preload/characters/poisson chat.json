@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Fisher Idle"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Fisher Left"
+		},
+		{
+			"offsets": [
+				-125,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Fisher Right"
+		},
+		{
+			"offsets": [
+				-73,
+				96
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Fisher Up"
+		},
+		{
+			"offsets": [
+				-117,
+				62
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Fisher Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fishy",
+	"position": [
+		-10,
+		230
+	],
+	"healthicon": "fishermatt",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

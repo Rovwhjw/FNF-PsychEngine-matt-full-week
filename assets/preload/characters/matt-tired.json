@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt TiredIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt TiredLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Matt TiredUp"
+		},
+		{
+			"offsets": [
+				-10,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Matt TiredDown"
+		},
+		{
+			"offsets": [
+				-73,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Matt TiredRight"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/matt_sword_tired",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "kendo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		60,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
