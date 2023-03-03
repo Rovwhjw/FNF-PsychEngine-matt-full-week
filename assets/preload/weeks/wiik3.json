@@ -1,0 +1,59 @@
+{
+	"storyName": "the (not so true) finale",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"fisticuffs",
+			"matt-angry",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"wind-up",
+			"matt-angry",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"deathmatch",
+			"matt",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"king-hit",
+			"matt",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

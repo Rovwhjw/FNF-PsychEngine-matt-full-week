@@ -1,0 +1,59 @@
+{
+	"storyName": "Swordplay",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Warm-up",
+			"matt",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Dodging",
+			"kendo",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Engarde",
+			"kendo",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Showdown",
+			"kendo",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

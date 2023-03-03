@@ -1,0 +1,59 @@
+{
+	"storyName": "The true art of war",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"war-of-honour",
+			"kendo",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"opponent",
+			"kendo",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"combat",
+			"kendo",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"endless-battle",
+			"kendo",
+			[
+				255,
+				120,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

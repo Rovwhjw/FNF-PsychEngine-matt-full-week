@@ -1,0 +1,41 @@
+{
+	"storyName": "matt is done with training",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sporting",
+			"matt",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"boxing-match",
+			"matt-angry",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
